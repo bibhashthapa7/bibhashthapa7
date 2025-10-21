@@ -2,7 +2,7 @@
 <p align="center">Software Engineer | CS @ RIT</p>
 
 ### 🚀 About Me
-- 🎓 Computer Science student at RIT graduating December 2025
+- 🎓 Computer Science student at RIT, graduating December 2025
 - 💻 Software Engineer with experience at **Synopsys**, **Calero**, and **Ansys**
 
 ---
@@ -24,6 +24,7 @@
 | **[TrekQuest Nepal](https://github.com/bibhashthapa7/TrekQuest-Nepal)** | Trek planning platform for hikers in Nepal | Python (Django), React, PostgreSQL |
 | **[Golf Disc E-Store](https://github.com/bibhashthapa7/Golf-Disc-eStore)** | E-commerce app with cart & checkout | Java, Spring Boot, Angular |
 | **[Movie Recommendation Engine](https://github.com/bibhashthapa7/Movie-Recommendation-Database)** | ML-based recommendation using ratings DB | Python, PostgreSQL |
+| **[British Square Game](https://github.com/bibhashthapa7/British-Square-Game-Assembly)** | Interactive strategy game implementation | MIPS Assembly |
 
 ---
 
